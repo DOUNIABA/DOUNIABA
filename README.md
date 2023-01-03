@@ -8,12 +8,9 @@ Dounia Bahassane</a></h1>
   <img align="right" top="500" height="300" width="450" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-+ 🌱 I’m currently learning PHP frameworks.
-+ 🤝 I’m available for freelancing.
-+ 👯 I’m looking to collaborate on web application projects.
-+ 💬 Ask me about **PHP**.
++ 🌱 I’m currently learning programming languages.
 + 📫 Reach me at **dounia0bahassane@gmail.com**.
-+ ⚡ Hubbies I like sporting, codding, music, travelling.
++ ⚡ Hubbies I like codding, music, travelling.
 + 📄 Know about my experiences <a href="https://github.com/DOUNIABA" target="blank">Resume</a>.
 
 <br/><br/><br/><br/><br/>
