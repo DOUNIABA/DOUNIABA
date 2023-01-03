@@ -26,7 +26,7 @@ Dounia Bahassane</a></h1>
 	<a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/dounia-bahassane-471278232/">
 		<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
 	 </a>
-        <a style="margin-left: 10px;" target="_blank" href="https://https://github.com/DOUNIABA?tab=repositories">
+        <a style="margin-left: 10px;" target="_blank" href="https://https://github.com/DOUNIABA">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
 	 </a>
 </div>
